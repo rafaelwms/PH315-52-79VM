@@ -244,8 +244,6 @@
 			<key>ResetLogoStatus</key>
 			<false/>
 		</dict>
-		<key>All</key>
-		<false/>
 	</dict>
 	<key>Booter</key>
 	<dict>
